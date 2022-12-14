@@ -1,0 +1,27 @@
+.container {
+	margin-top: 16px;
+}
+
+body {
+	background-color: #263238;
+	color: #eeeeee;
+}
+
+.form {
+	margin-top: 20px;
+}
+
+a {
+	color: #ffc107;
+}
+
+#register a {
+	color:#7cb342;
+	font-weight: bold;
+   pointer-events: none;
+   cursor: default;
+}
+
+input {
+	color: #111111;
+}

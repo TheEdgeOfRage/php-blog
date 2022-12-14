@@ -1,0 +1,41 @@
+.container {
+	margin-top: 16px;
+}
+
+body {
+	background-color: #263238;
+	color: #eeeeee;
+}
+
+.form {
+	margin-top: 20px;
+}
+
+a {
+	color: #ffc107;
+}
+
+#login a {
+	color:#c62828;
+	font-weight: bold;
+   pointer-events: none;
+   cursor: default;
+}
+
+input {
+	color: #111111;
+	width: 100%;
+}
+
+.finish {
+	margin-top: 5px;
+}
+
+#submit {
+	width: 180%;
+	margin-left: -80%;
+}
+
+#forgotten {
+	margin-top: 4px;
+}

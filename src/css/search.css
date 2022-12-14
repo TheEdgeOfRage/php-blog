@@ -1,0 +1,141 @@
+.container {
+	margin-top: 16px;
+}
+
+body {
+	background-color: #263238;
+	color: #eeeeee;
+}
+
+.links {
+	text-align: center;
+}
+
+a {
+	color: #ffc107;
+}
+
+#newpost {
+	width: 100%;
+	background-color: #c0ca33;
+	border-radius: 5px;
+}
+
+#newpost {
+	width: 100%;
+	background-color: #c0ca33;
+	border-radius: 5px;
+	color: #061218;
+	text-align: center;
+	padding-bottom: 0px;
+
+}
+
+#newpost span {
+	color: #061218;
+	margin: 0.5em 5px 6px -2px;
+	padding-bottom: 4px;
+}
+
+
+#searchbar {
+	background-color: #455a64;
+	width: 100%;
+	border-width: 0px;
+	border-bottom: 2px solid #ffc107;
+}
+
+#searchbutton {
+	background-color: #ffc107;
+	border: 0px;
+	color: #061218;
+	margin-right: -20px;
+	margin-left: -20px;
+	padding: 0px 2px;
+}
+
+#username {
+	font-weight: bold;
+	text-align: right;
+	color: #e0e0e0;
+}
+
+.nav-tabs {
+	margin-top: 20px;
+	border-color: #546e7a;
+	font-weight: bold;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+	background-color: #546e7a;
+	border-color: #546e7a;
+	color: #041014;
+}
+
+
+
+#results {
+	margin-top: 30px;
+}
+
+.res-users .user {
+	background-color: #455a64;
+	color: #061218;
+	width: 100%;
+	border-radius: 4px;
+	border-width: 0px;
+	padding: 10px 5px;
+	margin-bottom: 4px;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.res-users .name {
+	margin-bottom: 10px;
+	font-size: 1.4em;
+}
+
+.res-users .username {
+	font-weight: bold;
+	color: #003d40;
+}
+
+.res-posts #posts {
+	margin-top: 20px;
+}
+
+.res-posts .post-title {
+	background-color: #455a64;
+	color: #061218;
+	border-radius: 4px;
+	border-width: 0px;
+	padding: 6px 4px 0.5px 6px;
+	margin-bottom: 4px;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.res-posts .post-text {
+	background-color: #546e7a;
+	color: #061218;
+	padding: 6px 6px 6px 10px;
+	border-radius: 4px;
+	margin-bottom: 10px;
+}
+
+.res-posts .date {
+	float: right;
+	padding-top: 10px;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: italic;
+}
+
+.res-posts .author {
+	font-weight: bold;
+	color: #004d40;
+}

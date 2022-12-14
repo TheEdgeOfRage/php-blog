@@ -1,0 +1,24 @@
+.container {
+	margin-top: 16px;
+}
+
+body {
+	background-color: #263238;
+	color: #eeeeee;
+}
+
+a {
+	color: #ffc107;
+}
+
+.text {
+	margin-top: 16px
+}
+
+input {
+	color: #111111;
+}
+
+#textfield {
+	width: 100%;
+}

@@ -1,0 +1,74 @@
+.container {
+	margin-top: 16px;
+}
+
+body {
+	background-color: #263238;
+	color: #eeeeee;
+}
+
+.links a{
+	color: #ffc107;
+}
+
+#username {
+	font-weight: bold;
+	text-align: right;
+	color: #e0e0e0;
+}
+
+p {
+	color: #90a4ae;
+	margin-top: 10px;
+	font-size: 1.8em;
+}
+
+form {
+	margin-top: 16px;
+}
+
+input {
+	background-color: #ffffff;
+	border: 0px;
+	color: #000000;
+	width: 100%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 1px 4px;
+}
+
+textarea {
+	width: 100%;
+	margin-top: 5px;
+}
+
+#text {
+	text-align: center;
+	padding: 14px 0px;
+	color: #90a4ae;
+	font-size: 1.9em;
+}
+
+#check {
+	text-align: center;
+	padding: 10px 0px;
+	color: #90a4ae;
+	font-size: 1.9em;
+}
+
+#submit {
+	padding: 8px 4px;
+	font-size: 1.9em;
+	background-color: #ffb300;
+}
+
+#success {
+	color: #ffb300;
+	font-size: 1.8em;
+}
+
+#error {
+	color: #f01010;
+	font-size: 2em;
+	font-weight: bold;
+}
